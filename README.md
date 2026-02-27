@@ -309,6 +309,7 @@ This project is created for educational purposes as part of the IU International
 Student ID: 92133053
 Course: DLBDSOOFPP01 - Object Oriented and Functional Programming with Python  
 Institution: IU International University of Applied Sciences
+GitHub: https://github.com/herthiqal/OOFPP_Habits
 
 ---
 
@@ -325,3 +326,4 @@ Institution: IU International University of Applied Sciences
 ### Test Failures
 - Ensure no `test_habits.db` file exists before running tests
 - Run tests from the project root directory
+
